@@ -1,0 +1,12 @@
+{
+	"@microsoft/generator-sharepoint": {
+		"isCreatingSolution": true,
+		"environment": "spo",
+		"version": "1.12.1",
+		"libraryName": "verny-mission-values",
+		"libraryId": "133614b1-b801-4b0c-ace2-1364e794cc12",
+		"packageManager": "npm",
+		"isDomainIsolated": false,
+		"componentType": "webpart"
+	}
+}
